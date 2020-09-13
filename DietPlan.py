@@ -1,5 +1,5 @@
 import re
-print("TCS Codevitta Zone1: Diet Plan")
+print("Diet Plan")
 out=re.findall('[0-9]+',input(''))
 inp=(input('').split('|'))
 f=list()
